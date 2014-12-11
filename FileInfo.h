@@ -1,10 +1,3 @@
-/**
-* 文件类封装
-*
-* @author   hechangmin
-* @date     2008-12
-*/
-
 #ifndef ClsFileInfo_H
 #define ClsFileInfo_H
 #define READ_BUF_SIZE	20480
